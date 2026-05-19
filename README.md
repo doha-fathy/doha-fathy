@@ -12,9 +12,9 @@
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ```yaml
 Name: Doha Fathy
+
 University: Cairo University
 Faculty: Computers and Artificial Intelligence
 Department: Information Systems
@@ -32,12 +32,10 @@ Currently Learning:
   - Clean Code Practices
 ```
 
-<br>
-
-- 💻 Passionate about backend development and scalable web applications
-- 🚀 Interested in Full Stack & Backend Engineering
-- 📚 Strong foundation in OOP, Databases, and Problem Solving
-- 🌱 Always learning and building new projects
+- 💻 Passionate about backend development and scalable web applications  
+- 🚀 Interested in Full Stack & Backend Engineering  
+- 📚 Strong foundation in OOP, Databases, and Problem Solving  
+- 🌱 Always learning and building new projects  
 
 ---
 
@@ -73,6 +71,7 @@ Currently Learning:
 
 <table>
 <tr>
+
 <td width="50%">
 
 ## 🎬 MovieMania
@@ -87,7 +86,7 @@ Full-stack movie management platform built using PHP & MySQL.
 - Responsive UI
 
 🔗 **Live Demo**  
-https://moviemania.infinityfreeapp.com
+<a href="https://moviemania.infinityfreeapp.com">MovieMania</a>
 
 </td>
 
@@ -105,6 +104,7 @@ Scalable e-commerce application developed using Laravel.
 - MVC Architecture
 
 </td>
+
 </tr>
 </table>
 
@@ -135,6 +135,10 @@ Scalable e-commerce application developed using Laravel.
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=doha-fathy&theme=tokyonight&hide_border=true"/>
 
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=doha-fathy&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
@@ -160,6 +164,10 @@ Scalable e-commerce application developed using Laravel.
 ---
 
 <div align="center">
+
+### ✨ Code • Learn • Build • Improve • Repeat ✨
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:6A5ACD&height=120&section=footer"/>
 
