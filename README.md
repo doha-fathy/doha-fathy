@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:6A5ACD&height=220&section=header&text=Doha%20Fathy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Laravel%20Backend%20Developer&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:6A5ACD&height=220&section=header&text=Doha%20Fathy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20-%20Laravel%20Backend%20Developer&descAlignY=55"/>
 
 <br>
 
