@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Backend+Developer+with+Laravel;Full+Stack+Web+Developer;Information+Systems+Student;Passionate+About+Building+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Laravel+Backend+Developer;Full+Stack+Web+Developer;Information+Systems+Student;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,28 +16,27 @@
 
 ```yaml
 Name: Doha Fathy
-Education: Faculty of Computers and Artificial Intelligence
-Department: Information Systems
 University: Cairo University
+Faculty: Computers and Artificial Intelligence
+Department: Information Systems
 
-Interests:
+Focus:
   - Backend Development
   - Full Stack Web Development
-  - REST APIs
   - Database Design
-  - Software Engineering
+  - REST APIs
 
 Currently Learning:
-  - Laravel Advanced Concepts
+  - Laravel
   - Data Structures & Algorithms
-  - Clean Architecture
-  - System Design Basics
+  - Software Engineering
+  - Clean Code Practices
 ```
 
 <br>
 
-- 💻 Passionate about developing scalable web applications
-- 🚀 Interested in Backend Engineering & Full Stack Development
+- 💻 Passionate about backend development and scalable web applications
+- 🚀 Interested in Full Stack & Backend Engineering
 - 📚 Strong foundation in OOP, Databases, and Problem Solving
 - 🌱 Always learning and building new projects
 
@@ -53,7 +52,7 @@ Currently Learning:
 <br><br>
 
 ### ⚡ Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=laravel,django,nodejs" />
+<img src="https://skillicons.dev/icons?i=laravel,django" />
 
 <br><br>
 
@@ -101,9 +100,9 @@ Scalable e-commerce application developed using Laravel.
 
 ### ✨ Features
 - Admin Dashboard
-- Shopping Cart
+- Shopping Cart System
 - Order Management
-- Authentication
+- Authentication & Authorization
 - MVC Architecture
 
 </td>
@@ -115,14 +114,6 @@ Scalable e-commerce application developed using Laravel.
 ---
 
 # 📚 Coursework
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=doha-fathy&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
-<br>
 
 <div align="center">
 
@@ -144,10 +135,6 @@ Scalable e-commerce application developed using Laravel.
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=doha-fathy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=doha-fathy&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=doha-fathy&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
