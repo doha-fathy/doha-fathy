@@ -1,12 +1,10 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Doha+Fathy;Full+Stack+Web+Developer;Laravel+Backend+Developer;Information+Systems+Student" />
-
-### <b>Full Stack Web Developer • Laravel Backend Developer • Information Systems Student</b>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:6A5ACD&height=220&section=header&text=Doha%20Fathy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Laravel%20Backend%20Developer&descAlignY=55"/>
 
 <br>
 
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="320"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Backend+Developer+with+Laravel;Full+Stack+Web+Developer;Information+Systems+Student;Passionate+About+Building+Web+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,56 +12,57 @@
 
 # 💫 About Me
 
-<img align="right" width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👩‍💻 Who Am I?
+```yaml
+Name: Doha Fathy
+Education: Faculty of Computers and Artificial Intelligence
+Department: Information Systems
+University: Cairo University
 
-- 🎓 Information Systems Student at  
-  **Faculty of Computers and Artificial Intelligence — Cairo University**
-
-- 💻 Passionate about **Backend Development** and scalable web applications
-
-- 🚀 Interested in:
-  - Full Stack Development
-  - Backend Engineering
+Interests:
+  - Backend Development
+  - Full Stack Web Development
   - REST APIs
   - Database Design
   - Software Engineering
 
-- 🌱 Currently improving my skills in:
-  - Laravel
+Currently Learning:
+  - Laravel Advanced Concepts
   - Data Structures & Algorithms
-  - System Design Fundamentals
-  - Clean Code Practices
+  - Clean Architecture
+  - System Design Basics
+```
 
-- 📚 Strong foundation in:
-  - OOP
-  - Databases
-  - Problem Solving
-  - Web Development
+<br>
+
+- 💻 Passionate about developing scalable web applications
+- 🚀 Interested in Backend Engineering & Full Stack Development
+- 📚 Strong foundation in OOP, Databases, and Problem Solving
+- 🌱 Always learning and building new projects
 
 ---
 
-# ⚡ Tech Stack
+# ⚒️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### 🚀 Languages
 <img src="https://skillicons.dev/icons?i=php,python,java,cpp,js" />
 
 <br><br>
 
-### 🚀 Backend & Frameworks
+### ⚡ Backend & Frameworks
 <img src="https://skillicons.dev/icons?i=laravel,django,nodejs" />
 
 <br><br>
 
-### 🎨 Frontend Technologies
+### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 
 <br><br>
 
-### 🛢 Databases & Tools
+### 🛢️ Databases & Tools
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman" />
 
 </div>
@@ -72,35 +71,46 @@
 
 # 🚀 Featured Projects
 
-## 🎬 MovieMania Web Application
+<div align="center">
 
-> Full-stack movie management platform built using PHP & MySQL.
+<table>
+<tr>
+<td width="50%">
 
-✨ Features:
-- Authentication & Authorization
-- Movie Search & Filtering
+## 🎬 MovieMania
+
+Full-stack movie management platform built using PHP & MySQL.
+
+### ✨ Features
+- Authentication System
 - CRUD Operations
-- Third-Party API Integration
-- Responsive UI Design
-- Email Notification System
+- Movie Search & Filtering
+- API Integration
+- Responsive UI
 
-🔗 **Live Demo:**  
+🔗 **Live Demo**  
 https://moviemania.infinityfreeapp.com
 
----
+</td>
 
-## 🛒 E-Commerce Web Application
+<td width="50%">
 
-> Scalable e-commerce platform developed using Laravel & MySQL.
+## 🛒 E-Commerce Platform
 
-✨ Features:
+Scalable e-commerce application developed using Laravel.
+
+### ✨ Features
 - Admin Dashboard
-- Product & Category Management
-- Shopping Cart System
-- Order Processing
-- Authentication System
+- Shopping Cart
+- Order Management
+- Authentication
 - MVC Architecture
-- Database Relationships with Eloquent ORM
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -108,12 +118,20 @@ https://moviemania.infinityfreeapp.com
 
 <div align="center">
 
-| Computer Science | Software Engineering |
+<img src="https://github-profile-trophy.vercel.app/?username=doha-fathy&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 💻 Computer Science | 🚀 Software Engineering |
 |---|---|
 | Data Structures | Software Engineering I |
 | Algorithms | Software Engineering II |
 | Database Systems I | Web Development |
-| Database Systems II | Object-Oriented Programming |
+| Database Systems II | OOP |
 
 </div>
 
@@ -123,13 +141,13 @@ https://moviemania.infinityfreeapp.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=doha-fathy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=doha-fathy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=doha-fathy&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=doha-fathy&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=doha-fathy&theme=tokyo-night&hide_border=true"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=doha-fathy&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -140,15 +158,15 @@ https://moviemania.infinityfreeapp.com
 <div align="center">
 
 <a href="mailto:dohafathy971@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+  <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/doha-fathy">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+  <img src="https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/doha-fathy">
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+  <img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -157,8 +175,6 @@ https://moviemania.infinityfreeapp.com
 
 <div align="center">
 
-## ✨ Code • Learn • Build • Improve • Repeat ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:6A5ACD&height=120&section=footer"/>
 
 </div>
