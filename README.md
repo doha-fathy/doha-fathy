@@ -1,110 +1,128 @@
-<h1 align="center">Hi 👋, I'm Doha Fathy</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Web Developer | Laravel & PHP Enthusiast
-</h3>
+# Doha Fathy
 
-<p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="280" alt="coding gif"/>
-</p>
+### Full Stack Web Developer • Laravel Backend Developer • Information Systems Student
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Laravel+%26+PHP+Developer;Backend+Development+Enthusiast;Building+Scalable+Web+Applications;Information+Systems+Student" />
 
-## 👩‍💻 About Me
-
-🎓 Information Systems Student at  
-Faculty of Computers and Artificial Intelligence, Cairo University
-
-💻 Passionate about Backend Development and building scalable web applications
-
-🌱 Currently learning and improving my skills in:
-- Laravel
-- Software Engineering
-- Data Structures & Algorithms
-- REST APIs
-
-🚀 Interested in:
-- Full Stack Development
-- Backend Engineering
-- Database Design
-- Problem Solving
-
-📫 Reach me at:
-**dohafathy971@gmail.com**
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 👩‍💻 About Me
+
+I'm an Information Systems student at the Faculty of Computers and Artificial Intelligence, Cairo University, with a strong passion for backend development and full-stack web applications.
+
+I enjoy building scalable and user-friendly systems using Laravel, PHP, MySQL, and modern web technologies. Currently, I'm strengthening my knowledge in software engineering, APIs, databases, and problem solving.
+
+- 🎓 Information Systems Student — Cairo University
+- 💻 Interested in Backend & Full Stack Development
+- 🌱 Currently learning advanced Laravel concepts and software architecture
+- 🚀 Passionate about building real-world web applications
+- 📚 Strong foundation in Data Structures, Algorithms, and OOP
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=php,python,java,cpp,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,python,java,cpp,js" />
 
 ### Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,django" />
-</p>
+<img src="https://skillicons.dev/icons?i=laravel,django" />
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-</p>
+### Frontend Technologies
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 
 ### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎬 MovieMania Web Application
-- Full-stack movie tracking platform
-- Authentication & authorization system
-- Movie search and filtering
-- CRUD operations with MySQL
-- API integration for movie data
+## 🎬 MovieMania Web Application
 
-🔗 Live Demo:
+A full-stack movie management platform built using PHP and MySQL.
+
+### Features
+- User Authentication & Authorization
+- Movie Search & Filtering
+- CRUD Operations
+- API Integration
+- Responsive UI Design
+- Email Notification System
+
+🔗 Live Demo  
 https://moviemania.infinityfreeapp.com
 
 ---
 
-### 🛒 E-Commerce Web Application
-- Admin dashboard for products & orders
-- Shopping cart and order processing
-- Authentication system
-- Laravel MVC architecture
-- MySQL database integration
+## 🛒 E-Commerce Web Application
+
+A scalable e-commerce platform developed using Laravel and MySQL.
+
+### Features
+- Admin Dashboard
+- Product & Category Management
+- Shopping Cart System
+- Order Processing
+- Authentication System
+- MVC Architecture
+- Database Relationships with Eloquent ORM
 
 ---
 
-## 📊 GitHub Stats
+# 📚 Coursework
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doha-fathy&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doha-fathy&theme=tokyonight" />
-</p>
+- Data Structures
+- Algorithms
+- Software Engineering I & II
+- Database Systems I & II
+- Object-Oriented Programming
+- Web Development
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Analytics
 
-<p align="center">
-  <a href="mailto:dohafathy971@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/doha-fathy">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=doha-fathy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <a href="https://github.com/doha-fathy">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=doha-fathy&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:dohafathy971@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/doha-fathy">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/doha-fathy">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Code. Learn. Build. Improve. Repeat.” ✨
+
+</div>
