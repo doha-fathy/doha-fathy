@@ -12,8 +12,7 @@
 
 # 💫 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ```yaml
 Name: Doha Fathy
 University: Cairo University
