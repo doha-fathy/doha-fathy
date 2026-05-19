@@ -1,56 +1,110 @@
 <h1 align="center">Hi 👋, I'm Doha Fathy</h1>
-<h3 align="center">Full Stack Web Developer | Crafting responsive UIs & scalable backends</h3>
+
+<h3 align="center">
+Full Stack Web Developer | Laravel & PHP Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="350" alt="coding girl gif" />
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="280" alt="coding gif"/>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 I'm a 3rd-year Computer Science student at **Faculty of Computers and Artificial Intelligence, Cairo University**
-- 🌱 Currently learning: `Laravel`, `OOP`, `Data Structures`, `Software Engineering`
-- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `PHP`, `Laravel`, `C++`, `Java`, `Python`, `MySQL`
-- 📫 Reach me at: **dohafathy971@gmail.com**
-- 🚀 Always improving my skills and working on new creative projects
+🎓 Information Systems Student at  
+Faculty of Computers and Artificial Intelligence, Cairo University
+
+💻 Passionate about Backend Development and building scalable web applications
+
+🌱 Currently learning and improving my skills in:
+- Laravel
+- Software Engineering
+- Data Structures & Algorithms
+- REST APIs
+
+🚀 Interested in:
+- Full Stack Development
+- Backend Engineering
+- Database Design
+- Problem Solving
+
+📫 Reach me at:
+**dohafathy971@gmail.com**
 
 ---
 
-### 🛠 Languages & Tools
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,java,cpp,js" />
+</p>
+
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,django" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 🚀 Featured Projects
+
+### 🎬 MovieMania Web Application
+- Full-stack movie tracking platform
+- Authentication & authorization system
+- Movie search and filtering
+- CRUD operations with MySQL
+- API integration for movie data
+
+🔗 Live Demo:
+https://moviemania.infinityfreeapp.com
+
+---
+
+### 🛒 E-Commerce Web Application
+- Admin dashboard for products & orders
+- Shopping cart and order processing
+- Authentication system
+- Laravel MVC architecture
+- MySQL database integration
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=doha-fathy&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doha-fathy&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:dohafathy971@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/doha-fathy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <a href="https://www.linkedin.com/in/doha-fathy">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
 
----
-
-### 🔥 Fun GIFs
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100"/>
+  <a href="https://github.com/doha-fathy">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
